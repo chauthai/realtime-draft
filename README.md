@@ -1,5 +1,5 @@
 # realtime-draft
-A google docs clone powered by Facebook's Draft framework
+A google docs clone powered by Facebook's Draft framework and PouchDB
 
 # Useful links
 * [Slack](http://draft-realtime.slack.com)
